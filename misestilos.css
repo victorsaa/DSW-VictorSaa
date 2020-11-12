@@ -1,3 +1,6 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 .menu
 {width: 100%;
@@ -6,15 +9,19 @@ align:center}
 
 .diseñomenu{
     padding: 20px;
-    background-color: indianred;
+    background-color: #F47920;
     text-align: center;
     
 }
-.subtitulo{text-align: left;font-size: 40px;}
+.subtitulo{text-align: left;font-size: 40px;
+}
 
 .tabla1
 {font-size: 17px;
 padding: 5em;
 text-align: left;
-background-color: indigo;
+background-color:  white;
+}
+.colorfondo{
+    background-color: white;
 }
