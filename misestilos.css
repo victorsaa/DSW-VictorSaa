@@ -1,0 +1,20 @@
+
+.menu
+{width: 100%;
+font-size: 80px;text-align: center;
+align:center}
+
+.diseñomenu{
+    padding: 20px;
+    background-color: indianred;
+    text-align: center;
+    
+}
+.subtitulo{text-align: left;font-size: 40px;}
+
+.tabla1
+{font-size: 17px;
+padding: 5em;
+text-align: left;
+background-color: indigo;
+}
