@@ -6,7 +6,7 @@ body{
 {width: 70%;
 font-size: 80px;text-align: center;
 align:center}
-box-sizing: border-box
+
 
 .diseñomenu{
     padding: 20px;
@@ -33,4 +33,5 @@ background-color:  white;
 .video{
     width: 80%;
     size: 40%;
+    align: left;
 }
