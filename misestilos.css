@@ -29,7 +29,8 @@ background-color:  white;
 .contenedor{
     width: 100%;
     max-width: 1000px;
-
-
-
+}
+.video{
+    width: 100%;
+background-color: yellow;
 }
