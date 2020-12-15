@@ -5,7 +5,7 @@ body{
 .menu
 {width: 70%;
 font-size: 80px;text-align: center;
-align:center}
+}
 
 
 .diseñomenu{
@@ -32,8 +32,7 @@ background-color:  white;
 }
 .video{
     width: 80%;
-    size: 40%;
-    align:left;
+    
 }
 .pdf{width: 80%;
 height: 800px
